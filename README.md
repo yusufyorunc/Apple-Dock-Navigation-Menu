@@ -21,21 +21,6 @@ This project provides a navigation menu inspired by the macOS Dock. It offers a 
     ```
 3. Add the required files to your HTML project.
 
-## Usage
-
-Include the following in your HTML file:
-```html
-<link rel="stylesheet" href="dock-menu.css">
-<script src="dock-menu.js"></script>
-<div id="apple-dock-menu">
-  <!-- Menu items go here -->
-</div>
-```
-
 ## Contributing
 
 Contributions are welcome! Please open an issue first to discuss your proposed changes.
-
-## License
-
-MIT License
