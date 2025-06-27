@@ -1,5 +1,5 @@
 # Apple Dock Navigation Menu
-![Apple Dock](./apple_dock.png)
+![Apple Dock](./apple_dock.PNG)
 This project provides a navigation menu inspired by the macOS Dock. It offers a modern and interactive user interface for a stylish menu experience in your web projects.
 
 ## Features
